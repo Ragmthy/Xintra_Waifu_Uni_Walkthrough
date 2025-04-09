@@ -1,5 +1,5 @@
-# XINTRA LABS 
-Creating a Repository of Walkthroughs for Labs created by [XINTRA](https://www.xintra.org/). 
+# XINTRA LABS (Waifu University)
+Creating a Repository of Walkthrough for Waifu Lab created by [XINTRA](https://www.xintra.org/). 
 Each lab emulates an Advanced Persistent Threat (APT) incident
 
 The goal of the repository is to document my notes and thought processes for each lab. 
