@@ -1,8 +1,7 @@
-# Xintra's Waifu University Lab Walkthrough
+# Xintra's Waifu University Lab Walkthrough (Part 2b)
 
 Writing up a lab walkthrough to figuring out the incident at XINTRA's Waifu University. </br> This lab is an emulation of Alphv/BlackCat ransomware group. 
 
-### Section 2: Solving the Lab </br>
 #### Section 2b. Initial Access via Entra ID
 Now, it's been understood that in order for a ransomware group to come this far; into CC-DC-01 to encrypt files and drop a ransomnote, then some user account with this much access had been used. To inspect what possible Waifu domain accounts were utilised, the next step is to investigate all the logs captured before the triage acquisition date. This will involve looking into the ELK instance, and the respective logs. 
 
