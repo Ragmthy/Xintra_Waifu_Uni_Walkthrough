@@ -1,4 +1,4 @@
-# Xintra's Waifu University Lab Walkthrough
+# Xintra's Waifu University Lab Walkthrough (Part 2f)
 
 Writing up a walkthrough to figuring out the incident at XINTRA's Waifu University. </br> This lab is an emulation of Alphv/BlackCat ransomware group.
 
