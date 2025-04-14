@@ -2,7 +2,7 @@
 
 Writing up a walkthrough to figuring out the incident at XINTRA's Waifu University. </br> This lab is an emulation of Alphv/BlackCat ransomware group.
 
-![image](lab_waifu_network.png)
+![image](images/lab_waifu_network.png)
 
 
 ### Section 1: Understanding the network
