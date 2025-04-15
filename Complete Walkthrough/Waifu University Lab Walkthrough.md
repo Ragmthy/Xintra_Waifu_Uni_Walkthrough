@@ -175,7 +175,7 @@ And that particular binary, is found in 2 logs prior to this one:
 
 ![image](images/19_binary_created.jpg)
 
-Its path is also known. Taking e of it: C:/ProgramData/waifu.exe , the next thing to do is to calculate its SHA1 value. Navigating to this directory this is stored in, it's confirmed available as shown. 
+Its path is also known. Taking it: C:/ProgramData/waifu.exe , the next thing to do is to calculate its SHA1 value. Navigating to this directory this is stored in, it's confirmed available as shown. 
 
 ![image](images/21_waifu_exe_loc.jpg)
 
