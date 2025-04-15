@@ -94,7 +94,7 @@ From there, we might need to inspect the logs whereby after a long series of 501
 
 When seen graphically, there's a lot of activity before noon on Mar 3rd. So scrolling through the logs of that 11th hour, a 50074 log happens at 11:58am of that day, after a lot of 50126 logs. Amongst these 50126 logs, we can see the IP range of addresses were quite close. 
 
-But when inspecting the 50074 log, the IP address is not in the proxy IP range anymore. (Did the attack stop using a Proxy Server?) 
+But when inspecting the 50074 log, the IP address is not in the proxy IP range anymore. (Did the attacker stop using a Proxy Server?) 
 
 From there, we can extract the identity, email and IP address that successful login came from. And from that IP address, it's possible to find its SSH fingerprint on Shodan. 
 
