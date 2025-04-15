@@ -13,5 +13,11 @@ I've uploaded the walkthrough in 2 forms:
   
 - For those who'd like to read it part by part as the [lab's network breakdown](https://github.com/Ragmthy/Xintra_Waifu_Uni_Walkthrough/tree/main/Part%201.%20Network%20Diagram) and [the lab's respective sections](https://github.com/Ragmthy/Xintra_Waifu_Uni_Walkthrough/tree/main/Part%202.%20Lab%20Walkthrough) 🕸️📑
 
+### Extra Resources that helped along the way:
+1. Jump Servers [Explanation video](https://www.youtube.com/watch?v=9FN31QDLyFs)
+2. Elastic's runthrough of [Azure Logs](https://www.elastic.co/guide/en/integrations/current/azure-adlogs.html)
+3. Entra ID Potential [Error Codes Table](https://learn.microsoft.com/en-us/entra/identity-platform/reference-error-codes#aadsts-error-codes)
+4. 
+
 ### Mini Reflection of the Waifu Lab
 It's one rewarding lab to pursue! It's the first lab I've tried of the XINTRA team's, and it's an incredible, practical resource to try to hone threat-hunting and DFIR skills. I cannot recommend this enough, and although this might be categorized as an easier lab, do not be fooled. But the minute you're able to piece the sequence of events together, it'll be incredibly rewarding. 🏆
