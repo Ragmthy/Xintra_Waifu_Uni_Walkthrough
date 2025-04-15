@@ -329,8 +329,8 @@ The breakdown, courtsey of ChatGPT:
 
 Therefore, what this shows is that Process ID 3616 in CC-DC-01 had the malicious PTASpy.dll installed within it with help from the builtin Windows toolkit. Therefore, after clearing out the filters in place so far, and adding all the fields about process IDs as columns, the next thing to do was to filter for Process 3616 in all plausible forms. 
 
-winlog.event_data.ProcessID : 3616 (in Base 10 form)
-winlog.event_data.processId : 3616 (in Base 10 form)
+winlog.event_data.ProcessID : 3616 (in Base 10 form) </br>
+winlog.event_data.processId : 3616 (in Base 10 form) </br>
 winlog.event_data.ProcessId : 0xe20 (in Hexa form)
 
 Process name to ID, based on the logs so far, it's referring to processes associated with AzureADConnectAuthenticationAgentService.exe . 
