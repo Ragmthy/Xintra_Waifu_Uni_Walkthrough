@@ -9,7 +9,7 @@ More information about the labs can be found [here](https://www.xintra.org/labs)
 
 ### Breakdown of the Repo:
 I've uploaded the walkthrough in 2 forms: 
-- For those who'd like to read it as one [singular whole walkthrough](https://github.com/Ragmthy/Xintra_Waifu_Uni_Walkthrough/tree/main/Complete%20Walkthrough) 📜
+- For those who'd like to read the entire walkthrough as one [singular scroll](https://github.com/Ragmthy/Xintra_Waifu_Uni_Walkthrough/tree/main/Complete%20Walkthrough) 📜
   
 - For those who'd like to read it part by part as the [lab's network breakdown](https://github.com/Ragmthy/Xintra_Waifu_Uni_Walkthrough/tree/main/Part%201.%20Network%20Diagram) and [the lab's respective sections](https://github.com/Ragmthy/Xintra_Waifu_Uni_Walkthrough/tree/main/Part%202.%20Lab%20Walkthrough) 🕸️📑
 
