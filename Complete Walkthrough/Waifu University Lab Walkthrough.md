@@ -349,9 +349,7 @@ After changing directory to where the tool exists, and executing the command, li
     C:\Labs\Tools\EricZimmerman\LECmd>LECmd.exe -f "D:\C\Users\CC-Admin\AppData\Roaming\Microsoft\Windows\Recent\PTASpy.csv.lnk"
 
  we can see it helped carve out the CSV we want in question, and it had a file creation date at March 6th, 02:54:58. 
-
-![image](images/45_file_created.jpg) 
-
+ 
 ![image](images/46_zimmerman_csv_creation.jpg)
 
 In addition, it's further confirmed by the $J_Output results. 
