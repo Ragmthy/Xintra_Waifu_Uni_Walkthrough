@@ -21,6 +21,8 @@ This .bat file, is also visible in CC-SQL-01's Users/CC-Admin folder.
 
 ![image](images/53_bat_file_from_elk_on_ccadmin.jpg)
 
-A rough explanation from ChatGPT shows that this executable is meant to run with this token value. 
+A rough check of the batch file in Notepad++ shows that it was meant to run with this token value. 
+
+![image](images/54_token_in_notepad.jpg)
 
 And that concludes the Waifu University Lab ~~ 🥂🎊⚡
