@@ -409,6 +409,7 @@ This .bat file, is also visible in CC-SQL-01's Users/CC-Admin folder.
 
 A rough check of the Batch file in Notepad++ shows that it was meant to run with this token value. 
 
-![image](images/54_token_in_notepad.png)
+![image](images/54_token_in_notepad.jpg)
 
 And that concludes the Waifu University Lab ~~ 🥂🎊⚡
+
